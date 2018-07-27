@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+  }
+  
+  .head {
+    position: relative;
+    height: 100px;
+    width: 100%;
+    border-bottom-color: rgb(96, 108, 112);
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+  }
+  
+  fieldset {
+    border: 1px solid grey;
+    width: 80%;
+    height: 100%;
+    margin: 50 auto;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .footer {
+    bottom: 0;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    border-top-color: rgb(123, 134, 138);
+    border-top-style: solid;
+  }
+  
+  .logo img {
+    width: 15%;
+    height: auto;
+  }
+  
+  logo {
+    float: left;
+    width: 25%;
+  }
+  
+  .nav {
+    float: right;
+    margin-top: 30px;
+    margin-right: 40px;
+    width: 75%;
+    ul {
+      list-style-type: none;
+    }
+    a {
+      text-decoration: none;
+      color: #000000;
+    }
+  }
+  
+  .head {
+    height: 20%;
+  }
+  
+  .nav li {
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    height: 200px;
+    width: 100%;
+    border-top-color: rgb(242, 243, 243);
+    border-top-style: solid;
+    border-top-width: thin;
+  }
+  
+  hr {
+    width: 325px;
+    margin: auto;
+  }
+  
+  .inner {
+    margin: 10px;
+    padding: 5px;
+    margin-bottom: 80px;
+  }
+  
+  #enq {
+    color: skyblue;
+  }
+  
+  .contactright {
+    padding-left: 85%;
+    margin-top: -12%;
+  }
+  
+  .contactleft {
+    padding-left: 3%;
+  }
+  
+  #us {
+    padding-left: 3%;
+    padding-top: 1%;
+    h2 {
+      margin-bottom: 0;
+    }
+  }
+  
+  #lease {
+    color: aquamarine;
+  }
+  
+  input, select {
+    padding: 10px;
+    background: #f1f1f1;
+    border: 0px;
+  }
+  
+  #yash {
+    background: #87beee;
+    border-color: #87beee;
+    margin-left: 500px;
+  }

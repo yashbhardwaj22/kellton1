@@ -1,0 +1,149 @@
+body {
+    margin: 0; }
+    .head {
+		position:relative;
+        height: 100px;
+        width: 100%;
+        border-bottom-color: rgb(96, 108, 112);
+        border-bottom-style: solid;
+        border-bottom-width: thin; }
+    
+  
+  fieldset {
+    border: 1px solid grey;
+    width: 45%;
+    height: 70%;
+    margin: 50 auto;
+    padding: 0;
+    text-align: center; }
+  
+  .footer {
+    bottom: 0;
+    left: 0;
+    height: 10%;
+    width: 100%;
+    border-top-color: #006699;
+    border-top-style: solid; }
+    .logo img {
+        width: 15%;
+        height: auto;
+		padding-top: 40px;
+		padding-left: 30px;
+      }
+      logo {
+        float: left;
+        width: 25%;
+		margin:30px 20px;
+      }
+
+      .nav {
+        float: right;
+        margin-right: 40px;
+		margin-top:-40px;
+        width: 75%;
+      }
+      
+      .nav ul {
+        list-style-type: none;
+      }
+      
+      .nav a {
+        text-decoration: none;
+        color: #000000;
+      }
+
+      .head {
+        height: 20%;
+      }
+      .nav li {
+        float: right;
+        margin-left: 30px;
+      }
+      .footer {
+        position: relative;
+        bottom: 0;
+        left: 0;
+        height: 200px;
+        width: 100%;
+        border-top-color: rgb(242, 243, 243);
+        border-top-style: solid;
+        border-top-width: thin; }
+        hr {
+            width: 325px;
+            margin: 0 auto; }
+          
+          .inner {
+            margin: 10px;
+            padding: 5px;
+		
+			}
+          
+          #enq {
+            color: skyblue; }
+          
+          .contactright {
+            padding-left: 85%;
+            margin-top: -12%; }
+          
+          .contactleft {
+            padding-left: 3%; }
+          
+          #us {
+            padding-left: 3%;
+            padding-top: 1%; }
+            #us h2 {
+              margin-bottom: 0; }
+        #lease{
+            color: #006699;
+        }
+		#con{
+			color:#404040;
+		}
+		#contact{
+			font-family: "Times New Roman", Times, serif;
+			font-style: normal;
+			font-size: 32px;
+			color:		#484848;
+		}
+input[type=text], input[type=number]{
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	background-color: whitesmoke;
+}
+input[type=email]
+{
+	padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	background-color: whitesmoke;
+	
+}
+select
+{
+	padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	background-color: whitesmoke;
+	width:195px;
+	
+}
+input[type=submit] {
+    background-color: #006699;
+    color: white;
+    padding: 10px 25px;
+	margin-right:  150px;
+    border: none;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+		
+		
+		
+		
+		

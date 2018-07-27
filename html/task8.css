@@ -1,0 +1,13 @@
+.fieldBlock
+    {
+    display: block;
+    background-color: rgb(200, 200, 200);
+    width: 200px;
+    float: left;
+    padding: 10px;
+    }
+
+.title
+    {
+    font-weight: bold;
+    }
